@@ -14,7 +14,7 @@
 
 ## About Project
   A kick starter project to create a custom load-balancer in Java with the help of EUREKA NAMING SERVER and RIBBON.
-
+ Added Feature to have a ui.
   
 ## Network Architecture
   <p align="center">
