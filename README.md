@@ -14,6 +14,7 @@
 
 ## About Project
   A kick starter project to create a custom load-balancer in Java with the help of EUREKA NAMING SERVER and RIBBON.
+  To be used to have Unstoppable app while deploying new logic in processing data.
 
   
 ## Network Architecture
